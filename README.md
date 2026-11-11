@@ -1,3 +1,5 @@
+<!-- CI detection fixture README -->
+
 # CI detection fixture
 
 Root Jenkinsfile, declarative pipeline, `sh 'npm test'` in a Test stage.
